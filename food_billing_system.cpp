@@ -11,7 +11,7 @@ int main() {
 
 int TotalBillAmount() {
     char c;
-    int BillAmount = 0; // Initialize BillAmount
+    int BillAmount = 0; 
     char TypeOfItem;
     char s;
     
